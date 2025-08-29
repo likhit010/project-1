@@ -20,4 +20,4 @@ swimming = swimming * 275
 
 total = (cycling + swimming + running) / 3500
 
-printl("The total weight lost is", total, "pounds")
+print("The total weight lost is", total, "pounds")
