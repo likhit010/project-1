@@ -14,10 +14,10 @@ swimming = float (input ("enter number of hours swimming: "))
 
 cycling = cycling * 200
 
-ruming = running * 475
+running = running * 475
 
 swimming = swimming * 275
 
 total = (cycling + swimming + running) / 3500
 
-print("The total weight lost is", total, "pounds")
+printl("The total weight lost is", total, "pounds")
